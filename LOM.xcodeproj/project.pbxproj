@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		19DF34A020A35E9700074F7B /* EdLuis.png in Resources */ = {isa = PBXBuildFile; fileRef = 19DF349E20A35E9100074F7B /* EdLuis.png */; };
+		19DF34A120A35E9700074F7B /* johnaR.png in Resources */ = {isa = PBXBuildFile; fileRef = 19DF349F20A35E9400074F7B /* johnaR.png */; };
+		19DF34A420A35F0B00074F7B /* edlouis-authorphoto(resized).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */; };
+		19DF34A520A35F0B00074F7B /* JohnaR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A320A35F0A00074F7B /* JohnaR.jpg */; };
+		19DF34A720A35FAC00074F7B /* Jonah-&-VVV_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */; };
 		4C0BC9EB1C36F7C00062082B /* WatchingSiteDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C0BC9EA1C36F7C00062082B /* WatchingSiteDetailsViewController.m */; };
 		4C1122E11C0A29DB00562FC1 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1122E01C0A29DB00562FC1 /* SplashViewController.m */; };
 		4C24A9A71ECC958500F475DA /* SettingsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C24A9A61ECC958500F475DA /* SettingsTableViewController.m */; };
@@ -399,7 +404,7 @@
 		4C6F18B91C1342A000272A06 /* ed-holding-indri(clc)small.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F15961C13429D00272A06 /* ed-holding-indri(clc)small.jpg */; };
 		4C6F18BA1C1342A000272A06 /* editgrp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F15971C13429D00272A06 /* editgrp.jpg */; };
 		4C6F18BB1C1342A000272A06 /* EditorumDiagrams1A.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F15981C13429D00272A06 /* EditorumDiagrams1A.jpg */; };
-		4C6F18BC1C1342A000272A06 /* edlouis-authorphoto(resized).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized).jpg */; };
+		4C6F18BC1C1342A000272A06 /* edlouis-authorphoto(resized)_old.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized)_old.jpg */; };
 		4C6F18BD1C1342A000272A06 /* EdwardsMongooz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F159A1C13429D00272A06 /* EdwardsMongooz.jpg */; };
 		4C6F18BE1C1342A000272A06 /* EdwardsRAMslidescan(clc).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F159B1C13429D00272A06 /* EdwardsRAMslidescan(clc).jpg */; };
 		4C6F18BF1C1342A000272A06 /* ElephantBirdOldPhotoLabeled.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F159C1C13429D00272A06 /* ElephantBirdOldPhotoLabeled.jpg */; };
@@ -521,7 +526,7 @@
 		4C6F19331C1342A000272A06 /* James(clc)small.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16101C13429E00272A06 /* James(clc)small.jpg */; };
 		4C6F19341C1342A000272A06 /* JAR20148.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16111C13429E00272A06 /* JAR20148.jpg */; };
 		4C6F19351C1342A000272A06 /* Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16121C13429E00272A06 /* Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg */; };
-		4C6F19361C1342A000272A06 /* Jonah-&-VVV_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited.jpg */; };
+		4C6F19361C1342A000272A06 /* Jonah-&-VVV_edited_old.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited_old.jpg */; };
 		4C6F19371C1342A000272A06 /* Killed-aye-aye.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16141C13429E00272A06 /* Killed-aye-aye.jpg */; };
 		4C6F19381C1342A000272A06 /* KIR0023(clc).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16151C13429E00272A06 /* KIR0023(clc).jpg */; };
 		4C6F19391C1342A000272A06 /* L_sahamalazensis-2(clc).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4C6F16161C13429E00272A06 /* L_sahamalazensis-2(clc).jpg */; };
@@ -1047,6 +1052,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		19DF349E20A35E9100074F7B /* EdLuis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EdLuis.png; sourceTree = "<group>"; };
+		19DF349F20A35E9400074F7B /* johnaR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = johnaR.png; sourceTree = "<group>"; };
+		19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "edlouis-authorphoto(resized).jpg"; sourceTree = "<group>"; };
+		19DF34A320A35F0A00074F7B /* JohnaR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JohnaR.jpg; sourceTree = "<group>"; };
+		19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited.jpg"; path = "../../RANTO_PSD/Jonah-&-VVV_edited.jpg"; sourceTree = "<group>"; };
 		207819CDF00F21C044D45D22 /* Pods-LOMUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E18F68F24989637577C2C62 /* Pods-LOMUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E96B0D74BBF1375E08CB121 /* libPods-LOMTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LOMTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1468,7 +1478,7 @@
 		4C6F15961C13429D00272A06 /* ed-holding-indri(clc)small.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ed-holding-indri(clc)small.jpg"; path = "Photos/ed-holding-indri(clc)small.jpg"; sourceTree = "<group>"; };
 		4C6F15971C13429D00272A06 /* editgrp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = editgrp.jpg; path = Photos/editgrp.jpg; sourceTree = "<group>"; };
 		4C6F15981C13429D00272A06 /* EditorumDiagrams1A.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = EditorumDiagrams1A.jpg; path = Photos/EditorumDiagrams1A.jpg; sourceTree = "<group>"; };
-		4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "edlouis-authorphoto(resized).jpg"; path = "Photos/edlouis-authorphoto(resized).jpg"; sourceTree = "<group>"; };
+		4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized)_old.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "edlouis-authorphoto(resized)_old.jpg"; path = "Photos/edlouis-authorphoto(resized)_old.jpg"; sourceTree = "<group>"; };
 		4C6F159A1C13429D00272A06 /* EdwardsMongooz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = EdwardsMongooz.jpg; path = Photos/EdwardsMongooz.jpg; sourceTree = "<group>"; };
 		4C6F159B1C13429D00272A06 /* EdwardsRAMslidescan(clc).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "EdwardsRAMslidescan(clc).jpg"; path = "Photos/EdwardsRAMslidescan(clc).jpg"; sourceTree = "<group>"; };
 		4C6F159C1C13429D00272A06 /* ElephantBirdOldPhotoLabeled.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ElephantBirdOldPhotoLabeled.jpg; path = Photos/ElephantBirdOldPhotoLabeled.jpg; sourceTree = "<group>"; };
@@ -1590,7 +1600,7 @@
 		4C6F16101C13429E00272A06 /* James(clc)small.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "James(clc)small.jpg"; path = "Photos/James(clc)small.jpg"; sourceTree = "<group>"; };
 		4C6F16111C13429E00272A06 /* JAR20148.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = JAR20148.jpg; path = Photos/JAR20148.jpg; sourceTree = "<group>"; };
 		4C6F16121C13429E00272A06 /* Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg"; path = "Photos/Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg"; sourceTree = "<group>"; };
-		4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited.jpg"; path = "Photos/Jonah-&-VVV_edited.jpg"; sourceTree = "<group>"; };
+		4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited_old.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited_old.jpg"; path = "Photos/Jonah-&-VVV_edited_old.jpg"; sourceTree = "<group>"; };
 		4C6F16141C13429E00272A06 /* Killed-aye-aye.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Killed-aye-aye.jpg"; path = "Photos/Killed-aye-aye.jpg"; sourceTree = "<group>"; };
 		4C6F16151C13429E00272A06 /* KIR0023(clc).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "KIR0023(clc).jpg"; path = "Photos/KIR0023(clc).jpg"; sourceTree = "<group>"; };
 		4C6F16161C13429E00272A06 /* L_sahamalazensis-2(clc).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "L_sahamalazensis-2(clc).jpg"; path = "Photos/L_sahamalazensis-2(clc).jpg"; sourceTree = "<group>"; };
@@ -2258,6 +2268,8 @@
 		4C33F3AC1F2F42C900958818 /* place_maps */ = {
 			isa = PBXGroup;
 			children = (
+				19DF349E20A35E9100074F7B /* EdLuis.png */,
+				19DF349F20A35E9400074F7B /* johnaR.png */,
 				4C33F3AD1F2F42F800958818 /* Ambanja.jpg */,
 				4C33F3AE1F2F42F800958818 /* Ambatovaky-Special-Reserve.jpg */,
 				4C33F3AF1F2F42F800958818 /* Ambohijanahary-Special-Reserve.jpg */,
@@ -2813,7 +2825,7 @@
 				4C6F15961C13429D00272A06 /* ed-holding-indri(clc)small.jpg */,
 				4C6F15971C13429D00272A06 /* editgrp.jpg */,
 				4C6F15981C13429D00272A06 /* EditorumDiagrams1A.jpg */,
-				4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized).jpg */,
+				4C6F15991C13429D00272A06 /* edlouis-authorphoto(resized)_old.jpg */,
 				4C6F159A1C13429D00272A06 /* EdwardsMongooz.jpg */,
 				4C6F159B1C13429D00272A06 /* EdwardsRAMslidescan(clc).jpg */,
 				4C6F159C1C13429D00272A06 /* ElephantBirdOldPhotoLabeled.jpg */,
@@ -2829,6 +2841,8 @@
 				4C6F15A61C13429D00272A06 /* Eulemur-flavIfrons.jpg */,
 				4C6F15A71C13429D00272A06 /* Eulemur-fulvus.jpg */,
 				4C6F15A81C13429D00272A06 /* Eulemur-macaco-macaco.jpg */,
+				19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */,
+				19DF34A320A35F0A00074F7B /* JohnaR.jpg */,
 				4C6F15A91C13429D00272A06 /* Eulemur-mongoz-female-and-infant(clc).jpg */,
 				4C6F15AA1C13429D00272A06 /* Eulemur-mongoz.jpg */,
 				4C6F15AB1C13429D00272A06 /* Eulemur-rubriventer.jpg */,
@@ -2928,6 +2942,7 @@
 				4C6F16091C13429E00272A06 /* IRR_20071119_047.jpg */,
 				4C6F160A1C13429E00272A06 /* IRR_20071119_047(thumb).jpg */,
 				4C6F160B1C13429E00272A06 /* IRR_20080523_128(clc).jpg */,
+				19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */,
 				4C6F160C1C13429E00272A06 /* IRR_20081028_028.jpg */,
 				4C6F160D1C13429E00272A06 /* ISS007-E-14344_lrg.jpg */,
 				4C6F160E1C13429E00272A06 /* ISS008-E-19233_lrg.jpg */,
@@ -2935,7 +2950,7 @@
 				4C6F16101C13429E00272A06 /* James(clc)small.jpg */,
 				4C6F16111C13429E00272A06 /* JAR20148.jpg */,
 				4C6F16121C13429E00272A06 /* Jolly's-Mouse-Lemur_Microcebus-jollyae(clc).jpg */,
-				4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited.jpg */,
+				4C6F16131C13429E00272A06 /* Jonah-&-VVV_edited_old.jpg */,
 				4C6F16141C13429E00272A06 /* Killed-aye-aye.jpg */,
 				4C6F16151C13429E00272A06 /* KIR0023(clc).jpg */,
 				4C6F16161C13429E00272A06 /* L_sahamalazensis-2(clc).jpg */,
@@ -4073,6 +4088,7 @@
 				4C6F18C51C1342A000272A06 /* Eulemur-cinereiceps-captive-2.jpg in Resources */,
 				4C6F19E71C1342A100272A06 /* Microcebus-griseorufus-(1)(clc).jpg in Resources */,
 				4C6F1AB21C1342A100272A06 /* VareciarubraKEY.jpg in Resources */,
+				19DF34A020A35E9700074F7B /* EdLuis.png in Resources */,
 				4C6F18A41C1342A000272A06 /* DSC_3781(clc).jpg in Resources */,
 				4C6F1A191C1342A100272A06 /* MmurinusMandenaHAPKE(clc)(small).jpg in Resources */,
 				4C6F1A701C1342A100272A06 /* RAM_032.jpg in Resources */,
@@ -4187,6 +4203,7 @@
 				4C6F192F1C1342A000272A06 /* IRR_20081028_028.jpg in Resources */,
 				4C6F17B31C1342A000272A06 /* 252Grandidier(clc).jpg in Resources */,
 				4C6F1A121C1342A100272A06 /* Mirza5coquereli.jpg in Resources */,
+				19DF34A120A35E9700074F7B /* johnaR.png in Resources */,
 				4C6F17B11C1342A000272A06 /* 252_section.jpg in Resources */,
 				4C6F18B11C1342A000272A06 /* DSC_38961175DSC_3896(clc).jpg in Resources */,
 				4C6F1A3F1C1342A100272A06 /* pfurci(thumb).jpg in Resources */,
@@ -4227,12 +4244,14 @@
 				4C33F3F01F2F42F800958818 /* Ambatovaky-Special-Reserve.jpg in Resources */,
 				4C33F4111F2F42F800958818 /* Kirindy-Forest.jpg in Resources */,
 				4C6F17981C1342A000272A06 /* _8(clc).jpg in Resources */,
+				19DF34A420A35F0B00074F7B /* edlouis-authorphoto(resized).jpg in Resources */,
 				4C6F18581C1342A000272A06 /* BaobabsBurning2RAM.jpg in Resources */,
 				4C6F18C81C1342A000272A06 /* Eulemur-coronatus.jpg in Resources */,
 				4C6F1A1D1C1342A100272A06 /* NEW-fig.8.24-pg263_Lepilemur_seali.jpg in Resources */,
 				4C6F19271C1342A000272A06 /* Indri4indri.jpg in Resources */,
 				4C33F3EF1F2F42F800958818 /* Ambanja.jpg in Resources */,
 				4C33F42A1F2F42F800958818 /* Tsimanampetsotsa-National-Park.jpg in Resources */,
+				19DF34A520A35F0B00074F7B /* JohnaR.jpg in Resources */,
 				4CBAEAFB1BFA546B0011139C /* Assets.xcassets in Resources */,
 				4C6F17AD1C1342A000272A06 /* 135a(clc).jpg in Resources */,
 				4C6F19481C1342A000272A06 /* Lepilemur-aeeclis.jpg in Resources */,
@@ -4339,7 +4358,7 @@
 				4C6F188E1C1342A000272A06 /* DerVariSchinzHonnegger1840new.jpg in Resources */,
 				4C6F18731C1342A000272A06 /* Cheirogaleus-crossleyi.jpg in Resources */,
 				4C6F18871C1342A000272A06 /* DAR053(clc).jpg in Resources */,
-				4C6F19361C1342A000272A06 /* Jonah-&-VVV_edited.jpg in Resources */,
+				4C6F19361C1342A000272A06 /* Jonah-&-VVV_edited_old.jpg in Resources */,
 				4C6F196E1C1342A000272A06 /* LepilemurB6dorsalis.jpg in Resources */,
 				4C6F1AC71C134A0F00272A06 /* OpenSans-ExtraBoldItalic.ttf in Resources */,
 				4C33F4231F2F42F800958818 /* Parc-Botanique-et-Zoologique-de-Tsimbazaza.jpg in Resources */,
@@ -4415,7 +4434,7 @@
 				4C6F19901C1342A000272A06 /* LFG3HapalemurgilbertiPlate1_2.jpg in Resources */,
 				4C6F1A1C1C1342A100272A06 /* MrufusSteLuceHAPKE(clc).jpg in Resources */,
 				4C6F19581C1342A000272A06 /* Lepilemur-otto.jpg in Resources */,
-				4C6F18BC1C1342A000272A06 /* edlouis-authorphoto(resized).jpg in Resources */,
+				4C6F18BC1C1342A000272A06 /* edlouis-authorphoto(resized)_old.jpg in Resources */,
 				4C33F4061F2F42F800958818 /* Beza-Mahafaly-Special-Reserve.jpg in Resources */,
 				4C6F199B1C1342A000272A06 /* LFG3LepilemurPlate8.jpg in Resources */,
 				4C6F17CE1C1342A000272A06 /* 2005_08_MAD_148(clc)(rotate).jpg in Resources */,
@@ -4433,6 +4452,7 @@
 				4C6F18F41C1342A000272A06 /* gr2.jpg in Resources */,
 				4C6F17CA1C1342A000272A06 /* 2005_08_MAD_095(clc).jpg in Resources */,
 				4C33F4141F2F42F800958818 /* Lokobe-Strict-Nature-Reserve.jpg in Resources */,
+				19DF34A720A35FAC00074F7B /* Jonah-&-VVV_edited.jpg in Resources */,
 				4C6F188C1C1342A000272A06 /* Decken's-Sifaka_Propithecus-deckeni-deckeni(cropped).jpg in Resources */,
 				4C6F18141C1342A000272A06 /* 2009_09_MAD(2)_064(clc).jpg in Resources */,
 				4C6F1A031C1342A100272A06 /* MicrocebusB2jollyae.jpg in Resources */,
