@@ -12,6 +12,7 @@
 		19DF34A420A35F0B00074F7B /* edlouis-authorphoto(resized).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */; };
 		19DF34A520A35F0B00074F7B /* JohnaR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A320A35F0A00074F7B /* JohnaR.jpg */; };
 		19DF34A720A35FAC00074F7B /* Jonah-&-VVV_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */; };
+		19DF34AC20A3703700074F7B /* LOM.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34AB20A3703700074F7B /* LOM.sqlite */; };
 		4C0BC9EB1C36F7C00062082B /* WatchingSiteDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C0BC9EA1C36F7C00062082B /* WatchingSiteDetailsViewController.m */; };
 		4C1122E11C0A29DB00562FC1 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1122E01C0A29DB00562FC1 /* SplashViewController.m */; };
 		4C24A9A71ECC958500F475DA /* SettingsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C24A9A61ECC958500F475DA /* SettingsTableViewController.m */; };
@@ -1056,7 +1057,7 @@
 		19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "edlouis-authorphoto(resized).jpg"; sourceTree = "<group>"; };
 		19DF34A320A35F0A00074F7B /* JohnaR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JohnaR.jpg; sourceTree = "<group>"; };
 		19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited.jpg"; path = "../../RANTO_PSD/Jonah-&-VVV_edited.jpg"; sourceTree = "<group>"; };
-		19DF34A920A367F400074F7B /* LOM.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = LOM.sqlite; sourceTree = "<group>"; };
+		19DF34AB20A3703700074F7B /* LOM.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = LOM.sqlite; path = ../../../Downloads/LOM.sqlite; sourceTree = "<group>"; };
 		207819CDF00F21C044D45D22 /* Pods-LOMUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E18F68F24989637577C2C62 /* Pods-LOMUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E96B0D74BBF1375E08CB121 /* libPods-LOMTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LOMTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -3360,6 +3361,7 @@
 		4C7059711BFD06D4004E9BB6 /* Ressources */ = {
 			isa = PBXGroup;
 			children = (
+				19DF34AB20A3703700074F7B /* LOM.sqlite */,
 				4C74F8CC1F82C8BF0030AA12 /* Instructions */,
 				4C6F1AB91C1349DA00272A06 /* Fonts */,
 				4C6F14721C1340CD00272A06 /* Photos */,
@@ -3532,7 +3534,6 @@
 		4C95D43F1C0A15770038B9FC /* Database */ = {
 			isa = PBXGroup;
 			children = (
-				19DF34A920A367F400074F7B /* LOM.sqlite */,
 			);
 			name = Database;
 			sourceTree = "<group>";
@@ -4456,6 +4457,7 @@
 				4C6F1A031C1342A100272A06 /* MicrocebusB2jollyae.jpg in Resources */,
 				4C6F1A8C1C1342A100272A06 /* RussSignature.jpg in Resources */,
 				4C6F19741C1342A000272A06 /* LepilemurB6mittermeieri.jpg in Resources */,
+				19DF34AC20A3703700074F7B /* LOM.sqlite in Resources */,
 				4C6F1A2F1C1342A100272A06 /* Nosy-Mangabe.jpg in Resources */,
 				4C6F1A751C1342A100272A06 /* RAM_1283(clc)small.jpg in Resources */,
 				4C6F1A4E1C1342A100272A06 /* pk_madagascar_lemurs2.jpg in Resources */,
