@@ -13,6 +13,7 @@
 		19DF34A520A35F0B00074F7B /* JohnaR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A320A35F0A00074F7B /* JohnaR.jpg */; };
 		19DF34A720A35FAC00074F7B /* Jonah-&-VVV_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */; };
 		19DF34AC20A3703700074F7B /* LOM.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 19DF34AB20A3703700074F7B /* LOM.sqlite */; };
+		19DF34AF20A3891600074F7B /* PartnerRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 19DF34AE20A3891600074F7B /* PartnerRootViewController.m */; };
 		4C0BC9EB1C36F7C00062082B /* WatchingSiteDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C0BC9EA1C36F7C00062082B /* WatchingSiteDetailsViewController.m */; };
 		4C1122E11C0A29DB00562FC1 /* SplashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1122E01C0A29DB00562FC1 /* SplashViewController.m */; };
 		4C24A9A71ECC958500F475DA /* SettingsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C24A9A61ECC958500F475DA /* SettingsTableViewController.m */; };
@@ -1058,6 +1059,8 @@
 		19DF34A320A35F0A00074F7B /* JohnaR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JohnaR.jpg; sourceTree = "<group>"; };
 		19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited.jpg"; path = "../../RANTO_PSD/Jonah-&-VVV_edited.jpg"; sourceTree = "<group>"; };
 		19DF34AB20A3703700074F7B /* LOM.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; name = LOM.sqlite; path = ../../../Downloads/LOM.sqlite; sourceTree = "<group>"; };
+		19DF34AD20A3891600074F7B /* PartnerRootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PartnerRootViewController.h; path = Controllers/PartnerRootViewController.h; sourceTree = "<group>"; };
+		19DF34AE20A3891600074F7B /* PartnerRootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = PartnerRootViewController.m; path = Controllers/PartnerRootViewController.m; sourceTree = "<group>"; };
 		207819CDF00F21C044D45D22 /* Pods-LOMUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E18F68F24989637577C2C62 /* Pods-LOMUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E96B0D74BBF1375E08CB121 /* libPods-LOMTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LOMTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2447,6 +2450,8 @@
 				4C59ADA41C15F64900EA74C5 /* AboutViewController.m */,
 				E7A6C0F32083FBC900F7CEC1 /* AboutTableViewController.h */,
 				E7A6C0F42083FBC900F7CEC1 /* AboutTableViewController.m */,
+				19DF34AD20A3891600074F7B /* PartnerRootViewController.h */,
+				19DF34AE20A3891600074F7B /* PartnerRootViewController.m */,
 			);
 			name = About;
 			sourceTree = "<group>";
@@ -4969,6 +4974,7 @@
 				B4A275581DA8D88700777499 /* CameraViewController.m in Sources */,
 				4C74F2981C0638B900543A7F /* MTCSimpleActivityView.m in Sources */,
 				B43DF4321DB8F21800319654 /* UITableViewCell+Stretch.m in Sources */,
+				19DF34AF20A3891600074F7B /* PartnerRootViewController.m in Sources */,
 				4C5D047F1C06351700EFCAAC /* Families.m in Sources */,
 				4C3C71231F8FF93300DB697D /* ExtinctLemursNewViewController.m in Sources */,
 				B4B7BE811C7EA36400D32A48 /* OriginOfLemursRootViewController.m in Sources */,
