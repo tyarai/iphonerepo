@@ -1013,7 +1013,6 @@
 		B4C599B21C70D88000C4B99A /* IntroPageRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C599B11C70D88000C4B99A /* IntroPageRootViewController.m */; };
 		B4C599BB1C71155B00C4B99A /* Menus.m in Sources */ = {isa = PBXBuildFile; fileRef = B4C599BA1C71155B00C4B99A /* Menus.m */; };
 		B4D88E711C9A00670096B067 /* ScientificName.m in Sources */ = {isa = PBXBuildFile; fileRef = B4D88E701C9A00670096B067 /* ScientificName.m */; };
-		B4D9135A1D8CB5FC00DDC295 /* LOM.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = B4D913591D8CB5FC00DDC295 /* LOM.sqlite */; };
 		BF1F00939650383E8A07E944 /* libPods-LOMUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EC685DFE830C1571FD6A02AC /* libPods-LOMUITests.a */; };
 		DF46911A5B12CE941094D7C8 /* libPods-LOMTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E96B0D74BBF1375E08CB121 /* libPods-LOMTests.a */; };
 		E7A6C0F52083FBC900F7CEC1 /* AboutTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A6C0F42083FBC900F7CEC1 /* AboutTableViewController.m */; };
@@ -1057,6 +1056,7 @@
 		19DF34A220A35F0A00074F7B /* edlouis-authorphoto(resized).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "edlouis-authorphoto(resized).jpg"; sourceTree = "<group>"; };
 		19DF34A320A35F0A00074F7B /* JohnaR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JohnaR.jpg; sourceTree = "<group>"; };
 		19DF34A620A35FAC00074F7B /* Jonah-&-VVV_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jonah-&-VVV_edited.jpg"; path = "../../RANTO_PSD/Jonah-&-VVV_edited.jpg"; sourceTree = "<group>"; };
+		19DF34A920A367F400074F7B /* LOM.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = LOM.sqlite; sourceTree = "<group>"; };
 		207819CDF00F21C044D45D22 /* Pods-LOMUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.release.xcconfig"; sourceTree = "<group>"; };
 		2E18F68F24989637577C2C62 /* Pods-LOMUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LOMUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LOMUITests/Pods-LOMUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		2E96B0D74BBF1375E08CB121 /* libPods-LOMTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LOMTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -2174,7 +2174,6 @@
 		B4C599BA1C71155B00C4B99A /* Menus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Menus.m; path = Models/Database/Menus.m; sourceTree = "<group>"; };
 		B4D88E6F1C9A00670096B067 /* ScientificName.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScientificName.h; path = Controllers/ScientificName.h; sourceTree = "<group>"; };
 		B4D88E701C9A00670096B067 /* ScientificName.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScientificName.m; path = Controllers/ScientificName.m; sourceTree = "<group>"; };
-		B4D913591D8CB5FC00DDC295 /* LOM.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = LOM.sqlite; sourceTree = "<group>"; };
 		E7A6C0F32083FBC900F7CEC1 /* AboutTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AboutTableViewController.h; path = Controllers/AboutTableViewController.h; sourceTree = "<group>"; };
 		E7A6C0F42083FBC900F7CEC1 /* AboutTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AboutTableViewController.m; path = Controllers/AboutTableViewController.m; sourceTree = "<group>"; };
 		E7E5DD6A2088E9E300B96A46 /* SpeciesNameTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = SpeciesNameTableViewCell.h; path = Controllers/SpeciesNameTableViewCell.h; sourceTree = "<group>"; };
@@ -3533,7 +3532,7 @@
 		4C95D43F1C0A15770038B9FC /* Database */ = {
 			isa = PBXGroup;
 			children = (
-				B4D913591D8CB5FC00DDC295 /* LOM.sqlite */,
+				19DF34A920A367F400074F7B /* LOM.sqlite */,
 			);
 			name = Database;
 			sourceTree = "<group>";
@@ -3954,7 +3953,6 @@
 				4C6F1A5A1C1342A100272A06 /* Propithecus-diadema.jpg in Resources */,
 				4C6F18E61C1342A000272A06 /* Female-Eulemur-Mongoz--Anjahamena(clc).jpg in Resources */,
 				4C6F19A21C1342A000272A06 /* LFG3verreauxiPlate1.jpg in Resources */,
-				B4D9135A1D8CB5FC00DDC295 /* LOM.sqlite in Resources */,
 				4C6F1A5E1C1342A100272A06 /* Propithecus-verreauxi.jpg in Resources */,
 				4C6F179A1C1342A000272A06 /* 2_PeterKappeler.jpg in Resources */,
 				4C6F194B1C1342A000272A06 /* Lepilemur-edwardsi.jpg in Resources */,
